@@ -1,0 +1,10 @@
+c:\users\patricio pérez pinto\documents\visual studio 2017\Projects\Test_BKN\Test_BKN\bin\Debug\Test_BKN.exe.config
+c:\users\patricio pérez pinto\documents\visual studio 2017\Projects\Test_BKN\Test_BKN\bin\Debug\Test_BKN.exe
+c:\users\patricio pérez pinto\documents\visual studio 2017\Projects\Test_BKN\Test_BKN\bin\Debug\Test_BKN.pdb
+c:\users\patricio pérez pinto\documents\visual studio 2017\Projects\Test_BKN\Test_BKN\obj\Debug\Test_BKN.csprojResolveAssemblyReference.cache
+c:\users\patricio pérez pinto\documents\visual studio 2017\Projects\Test_BKN\Test_BKN\obj\Debug\Test_BKN.Form1.resources
+c:\users\patricio pérez pinto\documents\visual studio 2017\Projects\Test_BKN\Test_BKN\obj\Debug\Test_BKN.Properties.Resources.resources
+c:\users\patricio pérez pinto\documents\visual studio 2017\Projects\Test_BKN\Test_BKN\obj\Debug\Test_BKN.csproj.GenerateResource.Cache
+c:\users\patricio pérez pinto\documents\visual studio 2017\Projects\Test_BKN\Test_BKN\obj\Debug\Test_BKN.exe
+c:\users\patricio pérez pinto\documents\visual studio 2017\Projects\Test_BKN\Test_BKN\obj\Debug\Test_BKN.pdb
+c:\users\patricio pérez pinto\documents\visual studio 2017\Projects\Test_BKN\Test_BKN\obj\Debug\Test_BKN.TestHilo.resources
